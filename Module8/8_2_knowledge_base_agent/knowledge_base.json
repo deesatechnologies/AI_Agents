@@ -1,0 +1,17 @@
+[
+  {
+    "source": "company_knowledge_base_demo.pdf",
+    "chunk_id": 1,
+    "content": "Deesa Technologies - Internal Company Knowledge Base\nCompany Overview\nDeesa Technologies is a technology training and enterprise AI solutions company.\nThe company specializes in SQL, Big Data, Snowflake, Spark, AI Agents, MCP, LangGraph,\nand enterprise automation systems.\nHeadquarters: Bangalore, India\nPrimary products:\n- Analytics Platform\n- Inventory AI\n- CRM Suite\n- Enterprise AI Assistant\nCustomer Support Policy\nSupport tickets are categorized into three priority levels:\nP1 - Critical:\nResponse within 1 hour.\nResolution target: 4 hours.\nP2 - Medium:\nResponse within 4 hours.\nResolution target: 1 business day.\nP3 - Low:\nResponse within 1 business day.\nResolution target: 3 business days.\nEscalation emails:\nsupport@deesatech.com\nescalation@deesatech.com\nRefund Policy\nCustomers may request refunds within 14 days of purchase.\nRefund approval conditions:\n- Course completion must be below 20%\n- Enterprise licenses are non-refundable\n- Refunds above $500 require manager approval\nRefund proc"
+  },
+  {
+    "source": "company_knowledge_base_demo.pdf",
+    "chunk_id": 2,
+    "content": "essing time:\n5-7 business days\n\nEmployee Onboarding Process\nNew employees must complete the following steps:\n1. HR document verification\n2. Laptop allocation\n3. VPN account setup\n4. GitHub access\n5. Internal portal training\n6. Security awareness training\nMandatory tools:\n- Slack\n- Jira\n- GitHub\n- Snowflake\nSecurity Policy\nEmployees must never share:\n- passwords\n- API keys\n- access tokens\n- customer private information\nAll production systems require VPN access.\nMulti-factor authentication is mandatory.\nAI Platform Usage Rules\nApproved AI models:\n- gpt-4o-mini\n- deepseek-chat\nAI systems must:\n- use guardrails\n- validate outputs\n- avoid exposing secrets\n- require approval for risky actions\nDirect database DELETE operations are prohibited.\nSuggested Demo Questions\nQuestion\nWhat is the refund policy?\nWhat are the support escalation rules?\n\nWhat tools are required during onboarding?\nWhat are the AI platform usage rules?\nWhat are the P1 support response times?\nWhich AI models are approved?\nWh"
+  },
+  {
+    "source": "company_knowledge_base_demo.pdf",
+    "chunk_id": 3,
+    "content": "at security rules should employees follow?"
+  }
+]

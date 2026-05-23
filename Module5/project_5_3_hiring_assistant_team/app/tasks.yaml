@@ -1,0 +1,61 @@
+resume_screening_task:
+  description: >
+    Screen the following candidate resume for the target role.
+
+    Candidate Resume:
+    {resume_text}
+
+    Job Description:
+    {job_description}
+
+    Analyze:
+    - candidate profile summary
+    - relevant experience
+    - strong skills
+    - weak areas
+    - resume quality
+    - initial suitability
+
+  expected_output: >
+    A clear resume screening report with candidate summary,
+    strengths, weaknesses, and initial suitability for the role.
+
+
+skill_gap_analysis_task:
+  description: >
+    Compare the candidate resume against the job description.
+
+    Identify:
+    - matching skills
+    - missing skills
+    - partially matching skills
+    - important gaps
+    - candidate fit score from 0 to 100
+    - shortlist recommendation
+
+    Important:
+    Do not make a final hiring decision.
+    Give an assistant-level recommendation only.
+
+  expected_output: >
+    A structured skill gap analysis with match score,
+    missing skills, and shortlist recommendation.
+
+
+interview_question_task:
+  description: >
+    Create interview questions for this candidate based on the resume
+    screening and skill gap analysis.
+
+    Include:
+    - technical questions
+    - project-based questions
+    - scenario-based questions
+    - behavioral questions
+    - questions targeting missing skills
+
+    Make the questions practical and role-specific.
+
+  expected_output: >
+    A complete interview question set grouped by category,
+    with a short explanation of what each section evaluates.

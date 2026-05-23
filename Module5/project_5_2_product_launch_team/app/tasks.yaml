@@ -1,0 +1,47 @@
+market_research_task:
+  description: >
+    Research the following product idea:
+
+    {product_idea}
+
+    Research:
+    - target audience
+    - competitors
+    - market trends
+    - customer pain points
+    - business opportunities
+
+  expected_output: >
+    Detailed market research report with trends,
+    opportunities, competitors, and audience analysis.
+
+
+strategy_task:
+  description: >
+    Create a product launch strategy based on the market research.
+
+    Include:
+    - positioning
+    - launch plan
+    - pricing ideas
+    - target audience strategy
+    - differentiation strategy
+    - launch timeline
+
+  expected_output: >
+    Complete product launch strategy document.
+
+
+content_generation_task:
+  description: >
+    Create launch marketing content.
+
+    Generate:
+    - product tagline
+    - launch announcement
+    - social media post
+    - email campaign draft
+    - product description
+
+  expected_output: >
+    Professional marketing content package.

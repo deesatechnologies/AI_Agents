@@ -1,0 +1,46 @@
+code_generation_task:
+  description: >
+    Generate Python code for the following requirement:
+
+    {user_requirement}
+
+    Requirements:
+    - Use clean Python code
+    - Add comments
+    - Keep beginner-friendly
+    - Follow best practices
+
+  expected_output: >
+    Complete Python solution with explanations.
+
+
+code_review_task:
+  description: >
+    Review the generated Python code carefully.
+
+    Improve:
+    - readability
+    - maintainability
+    - performance
+    - naming conventions
+    - code structure
+
+    Suggest improvements and provide improved code if needed.
+
+  expected_output: >
+    Reviewed and improved Python code with explanations.
+
+
+testing_task:
+  description: >
+    Create meaningful test cases for the final reviewed code.
+
+    Include:
+    - normal test cases
+    - edge cases
+    - invalid input cases
+
+    Explain what each test validates.
+
+  expected_output: >
+    Well-structured software test cases and validation explanations.
