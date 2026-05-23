@@ -3,7 +3,7 @@ This repository is part of a hands-on Production AI Engineering course by Deesa 
 
 Unlike tutorial-style projects that only demonstrate concepts, this course focuses on how production AI systems are actually designed, structured, secured, deployed, and scaled.
 
-Throughout this course, students build practical end-to-end systems including:
+Throughout this course, students build practical end-to-end systems including: 
 
 AI Agents
 Multi-Agent Architectures
