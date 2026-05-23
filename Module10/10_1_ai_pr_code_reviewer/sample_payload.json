@@ -1,0 +1,14 @@
+{
+    "action": "opened",
+    "repository": {
+      "name": "demo-repo",
+      "owner": {
+        "login": "your-github-username"
+      }
+    },
+    "pull_request": {
+      "number": 1,
+      "title": "Add calculator function",
+      "body": "This PR adds a simple calculator function."
+    }
+  }
