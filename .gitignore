@@ -209,6 +209,14 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# IDE settings
+.vscode/
+.idea/
+
+# Database files
+*.db
+*.sqlite3
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
